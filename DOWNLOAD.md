@@ -1,6 +1,6 @@
 Dataset **KITTI Object Detection** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/b/J/kL/OwaJdMbXlpADeyDZ5ExE7R1bh2iMD7huzzZt8oBQv5Q6dX4gsglWwYmRrz2kiPtFWTvg3Z6N5FMqcZANdM3blbdzzqAVISTEYtBsQ194QLlHvN6Z5pfNNbAsGnwK.tar)
+ [Download](https://www.dropbox.com/scl/fi/2scwzqxtjdsosy9r3bxmh/kitti-object-detection-DatasetNinja.tar?rlkey=x6yvjrhxxlgx74v16fybzxhxj&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
